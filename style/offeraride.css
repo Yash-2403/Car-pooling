@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: avenir; 
+}
+.text-b{
+    color : #9B1B1B;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 100px;
+}
+.form-group{
+    font-size: 20px;
+    text-align: center;
+    padding: 16px 0px 8px 0px;
+}
+.box{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

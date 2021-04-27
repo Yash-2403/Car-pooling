@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: avenir; 
+}
+.text-b{
+    color : #9B1B1B;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.table1{
+    height: 92vh;
+}
+table{
+    border-collapse: collapse;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    margin: auto;
+}
+th,td{
+    border: 1px solid black;
+    padding: 10px 30px;
+    text-align: center;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+
+.box{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 5px 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fa{
+    font-size: 13px;
+}
+.fa-edit{
+    color: #63c76a;
+}
+.fa-trash{
+    color: #ff0000;
+}
